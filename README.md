@@ -1,1 +1,3 @@
 # Sidebar-project-using-HTML-CSS
+<br>
+This project is a responsive and visually appealing webpage template created using HTML and CSS. It features a dynamic sidebar navigation menu with a toggle button for improved user experience. The main content area incorporates a full-screen background image. The design utilizes the "Poppins" font and includes FontAwesome icons for a modern and stylish appearance. The project is suitable for personal portfolios, photography websites, or any creative platform. Users can easily customize the content, colors, and social media links to match their preferences.
